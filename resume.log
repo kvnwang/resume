@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 SEP 2017 01:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 SEP 2017 01:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -117,8 +117,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 Package: xhfill 2011/05/14\ v 1.01\ modify width and color of hrulefill
-)
-No file resume.aux.
+) (./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -209,8 +208,8 @@ g tech-niques, to achieve con-cur-rent and asyn-chronous com-mands
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2393 strings out of 493089
- 33228 string characters out of 6134842
+ 2395 strings out of 493089
+ 33250 string characters out of 6134842
  106645 words of memory out of 5000000
  5890 multiletter control sequences out of 15000+600000
  8291 words of font info for 29 fonts, out of 8000000 for 9000
@@ -223,7 +222,7 @@ m/cmbxti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on resume.pdf (1 page, 87184 bytes).
+Output written on resume.pdf (1 page, 87436 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
